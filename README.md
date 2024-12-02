@@ -40,7 +40,7 @@ I am **Archit Gupta**, a Software Development Engineer with a strong background 
 - **AI Solutions for Diagnostics and Staffing:**  
   Created AI-driven applications to optimize project staffing and assist in medical diagnostics.  
 - **Collaboration with Fortune 500 Clients:**  
-  Delivered cutting-edge AI applications for companies such as Meta and Walmart.  
+  Delivered cutting-edge AI solutions for companies such as Meta and Walmart.  
 
 ---
 
