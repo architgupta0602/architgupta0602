@@ -37,7 +37,9 @@ I am **Archit Gupta**, a Software Development Engineer with a strong background 
 
 ## 📂 Notable Projects  
 - **NLP-Based Skill Mapping Application:**  
-  Built a tool using NLP and Streamlit to align employee skills with project needs.  
+  Built a tool using NLP and Streamlit to align employee skills with project needs.
+- **Minstral Based Crypto Trading Bot:**
+  Built a bot to automatically trade Crypto based on market sentiment, current events, and finetuned huggingface models 
 - **AI Solutions for Diagnostics and Staffing:**  
   Created AI-driven applications to optimize project staffing and assist in medical diagnostics.  
 - **Collaboration with Fortune 500 Clients:**  
