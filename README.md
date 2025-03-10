@@ -10,14 +10,15 @@ I am **Archit Gupta**, a Software Development Engineer with a strong background 
 ---
 
 ## 🔧 Skills  
-- **Programming:** Python, Machine Learning, NLP, Computer Vision  
-- **Tools & Frameworks:** OpenCV, Streamlit, Agile Methodologies  
+- **Programming:** Python, Machine Learning, NLP, Computer Vision
+- **Tools & Frameworks:** React, Next.JS, Agile Methodologies  
 - **Other Skills:** Automation Testing, QA, Strategic Planning, Client Relations  
 
 ---
 
 ## 📜 Certifications  
-- **Microsoft Azure Cloud Computing Fundamentals** (2025)  
+- **Microsoft Azure Cloud Computing Fundamentals** (2025)
+- **Microsoft Azure Administrator Learning Path** (2025)   
 - **AccelQ Automation Testing Certification** (2025)  
 - **Stanford Data Science in Python** (2022)  
 - **Machine Learning and Data Science in Python** (2022)  
